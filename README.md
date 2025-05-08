@@ -2,6 +2,7 @@
 Generates a barcode based upon a given input string.
 
 ## Compiling
+Requires JDK 21!
 ### MacOS/Linux
 Open Terminal and run
 ```shell
